@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./devops-robout.png" alt="DevOps Robot">
+  <img src="./devops-robot.png" alt="DevOps Robot">
 </p>
