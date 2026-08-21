@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul
 
-<!--
-**rahul-10213/rahul-10213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+I'm currently learning DevOps, Cloud, and Infrastructure Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☁️ AWS
+
+- VPC
+- EC2
+- S3
+- IAM
+- Load Balancers
+- Auto Scaling
+
+## 🛠️ DevOps Tools
+
+- Linux
+- Git & GitHub
+- Terraform
+- Docker
+- Kubernetes
+- Jenkins
+
+## 📚 Currently Learning
+
+- AWS
+- Terraform
+- Docker
+- Kubernetes
+- CI/CD
+
+## 🚀 Projects
+
+Check out my repositories to see my hands-on projects.
+
+---
+
+### 🔗 Connect with me
+
+GitHub: [rahul-10213](https://github.com/rahul-10213)
