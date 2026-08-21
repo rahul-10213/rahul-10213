@@ -1,43 +1,7 @@
-# Hi 👋, I'm Rahul
+<p align="center">
+  <img src="./devops-robot.png" alt="DevOps Robot">
+</p>
 
-### 🚀 Aspiring DevOps Engineer
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 
-I'm currently learning DevOps, Cloud, and Infrastructure Automation.
-
----
-
-## ☁️ AWS
-
-- VPC
-- EC2
-- S3
-- IAM
-- Load Balancers
-- Auto Scaling
-
-## 🛠️ DevOps Tools
-
-- Linux
-- Git & GitHub
-- Terraform
-- Docker
-- Kubernetes
-- Jenkins
-
-## 📚 Currently Learning
-
-- AWS
-- Terraform
-- Docker
-- Kubernetes
-- CI/CD
-
-## 🚀 Projects
-
-Check out my repositories to see my hands-on projects.
-
----
-
-### 🔗 Connect with me
-
-GitHub: [rahul-10213](https://github.com/rahul-10213)
+<h3 align="center">Aspiring DevOps Engineer 🚀</h3>
