@@ -1,7 +1,3 @@
 <p align="center">
-  <img src="./devops-robot.png" alt="DevOps Robot">
+  <img src="./rahul-devops-90kb.png" alt="Rahul DevOps">
 </p>
-
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-
-<h3 align="center">Aspiring DevOps Engineer 🚀</h3>
